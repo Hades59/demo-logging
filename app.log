@@ -1,0 +1,16 @@
+11:53:33.676 [main] INFO  console.demo_logging.dev.App -
+				Bonjour Slf4J !
+11:53:33.678 [main] INFO  console.demo_logging.dev.App -
+				Implémentation Logback
+11:53:33.679 [main] DEBUG c.d.dev.service.AppService -
+				Traitement 1 : param = valeur 1
+11:55:37.213 [main] INFO  console.demo_logging.dev.App -
+				Bonjour Slf4J !
+11:55:37.216 [main] INFO  console.demo_logging.dev.App -
+				Implémentation Logback
+11:55:37.216 [main] DEBUG c.d.dev.service.AppService -
+				Traitement 1 : param = valeur 1
+12:00:38.010 [main] INFO  console.demo_logging.dev.App -
+				Bonjour Slf4J !
+12:00:38.013 [main] INFO  console.demo_logging.dev.App -
+				Implémentation Logback
