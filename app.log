@@ -14,3 +14,7 @@
 				Bonjour Slf4J !
 12:00:38.013 [main] INFO  console.demo_logging.dev.App -
 				Implémentation Logback
+14:29:11.169 [main] INFO  console.demo_logging.dev.App -
+				Bonjour Slf4J !
+14:29:11.172 [main] INFO  console.demo_logging.dev.App -
+				Implémentation Logback
